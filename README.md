@@ -1,19 +1,4 @@
-![](http://jpsierens.com/wp-content/uploads/2016/06/react-eco-wp.gif)
-
-
 # React Redux Webpack Boilerplate
-
-[![Greenkeeper badge](https://badges.greenkeeper.io/JoeKarlsson/react-redux-boilerplate.svg)](https://greenkeeper.io/)
-
-[![deps][deps]][deps-url]
-[![Coverage Status][cover]][cover-url]
-[![Build Status][tests]][tests-url]
-[![Maintainability][maintainability]][maintainability-url]
-[![stars][stars]][stars-url]
-[![pr][pr]][pr-url]
-[![license][license]][license-url]
-[![twitter][twitter]][twitter-url]
-
 
 A boilerplate for playing around with react, redux and react-router with the help of webpack.
 
