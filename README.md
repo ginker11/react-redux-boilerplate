@@ -74,33 +74,3 @@ Don't hesitate to create a pull request. Every contribution is appreciated. In d
     <tr>
   <tbody>
 </table>
-
-
-### License
-
-#### [MIT](./LICENSE)
-
-
-[deps]: https://david-dm.org/JoeKarlsson/react-redux-boilerplate/status.svg
-[deps-url]: https://david-dm.org/JoeKarlsson/react-redux-boilerplate
-
-[tests]: https://travis-ci.org/JoeKarlsson/react-redux-boilerplate.svg?branch=master
-[tests-url]: https://travis-ci.org/JoeKarlsson/react-redux-boilerplate
-
-[maintainability]: https://api.codeclimate.com/v1/badges/7d2a095c01bb88557a41/maintainability
-[maintainability-url]: https://codeclimate.com/github/JoeKarlsson/react-redux-boilerplate/maintainability
-
-[pr]: https://img.shields.io/badge/PRs-welcome-brightgreen.svg
-[pr-url]: CONTRIBUTING.md
-
-[cover]: https://coveralls.io/repos/github/JoeKarlsson/react-redux-boilerplate/badge.svg?branch=master
-[cover-url]: https://coveralls.io/github/JoeKarlsson/react-redux-boilerplate?branch=master
-
-[stars]: https://img.shields.io/github/stars/JoeKarlsson/react-redux-boilerplate.svg?style=flat-square
-[stars-url]: https://github.com/JoeKarlsson/react-redux-boilerplate/stargazers
-
-[license]: https://img.shields.io/github/license/JoeKarlsson/react-redux-boilerplate.svg
-[license-url]: https://github.com/JoeKarlsson/react-redux-boilerplate/blob/master/LICENSE
-
-[twitter]: https://img.shields.io/twitter/url/https/github.com/JoeKarlsson/react-redux-boilerplate.svg?style=social&style=flat-square
-[twitter-url]: https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FJoeKarlsson%2Freact-redux-boilerplate
