@@ -53,24 +53,3 @@ efficient tooling and cleanest project structure.
 ### Deployment
 
 * Add the project to Coveralls and travis-ci then link up the project to Heroku. Be sure to enable auto deployments through Travis when running this project.
-
-
-<h2 align="center">Contributing</h2>
-
-Don't hesitate to create a pull request. Every contribution is appreciated. In development you can start the tests by calling `npm test`. Checkout our [contribution README](https://github.com/JoeKarlsson/react-redux-boilerplate/blob/master/CONTRIBUTING.md) for more info.
-
-
-### Maintainers
-
-<table>
-  <tbody>
-    <tr>
-      <td align="center">
-        <img width="150 height="150"
-        src="https://avatars.githubusercontent.com/JoeKarlsson?v=3">
-        <br />
-        <a href="https://github.com/JoeKarlsson">Joe Karlsson</a>
-      </td>
-    <tr>
-  <tbody>
-</table>
